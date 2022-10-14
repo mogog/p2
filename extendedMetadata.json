@@ -1,0 +1,16 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Austria",
+        "social": {
+            "twitter_handle": "coming soon",
+            "telegram_handle": "coming soon",
+        },
+        "about": {
+            "me": "...",
+            "server": "bare metal",
+            "company": "..."
+        }
+    }
+}
